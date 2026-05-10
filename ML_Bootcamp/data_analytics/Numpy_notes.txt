@@ -1,0 +1,14 @@
+-> Numpy is a linear algebra library for python, the 
+   reason it is so important for data science with 
+   python is that almost all of the libraries in the 
+   PyData Ecosystem rely on NumPy as one of their main 
+   building blocks.
+
+-> Numpy is also incredibly fast, as it has bindings to C libraries
+
+-> Numpy arrays essentially come in two flavors
+	1. Vectors
+	2. Matrices
+
+-> Vectors are strictly 1-d arrays and matrices are 2-d or 1-d 
+

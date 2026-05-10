@@ -1,0 +1,65 @@
+/* Your code goes here */
+h1{
+    font-size: 16px;
+    color: #444444;
+    font-family: Roboto, Helvetica, sans-serif;
+    text-align: center;
+}
+.container {
+    margin: 5px;
+    font-size: 13px;
+}
+div[class="offer"] {
+    width: 400px;
+    margin: 4px;
+    text-align: center;
+    border: 1px;
+    border-color: 1px #cccccc;
+    box-shadow: rgb(221, 221, 221) 0px 2px 2px 0px, rgb(221, 221, 221) 0px 0px 5px 0px;
+    background-color: rgb(0,179,179);
+    display: inline-block;
+    border-bottom-right-radius:1px ;
+    border-bottom-left-radius: 1px;
+    border-top-right-radius: 1px;
+    border-top-left-radius: 1px;
+
+}
+div[class="offerContents"]{
+    background-color: rgb(250, 250, 250);
+    border-bottom-right-radius:2px ;
+    border-bottom-left-radius: 2px;
+    padding: 20px;
+}
+div[class="offerTitle"] {
+    font-weight: bold;
+    font-size: 14px;
+    padding: 15px;
+    background-color: rgb(0,179,179);
+
+}
+.offerContents {
+    padding: 20px;
+    border-bottom: 2px #fafafa;
+}
+table{
+    width: 100%;
+    background-color: #ffffff;
+    box-shadow: 0px 2px 2px #dddddd, 0px 0px 5px #dddddd;
+}
+th{
+    font-size: 12px;
+    text-align: left;
+    color: rgb(119,119,119);
+    padding: 10px;
+}
+td{
+    color: rgb(68,68,68);
+    font-weight: 100;
+    text-align: left;
+    padding: 20px 10px;
+}
+.finalValue {
+    font-weight: 700;
+    color: #2222ff;
+}
+

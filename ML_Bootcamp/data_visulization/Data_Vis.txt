@@ -1,0 +1,10 @@
+---- MATPOLTLIB------
+
+--> Strating withe this and moving to seaborn, pandas built in data visuilization and plotly
+
+
+--> Matplotlib is the most popular plotting library for python
+--> it gives you control over evert aspect of a figure
+--> it was designed to have a similar feel to matlabs's graphincal plotting
+
+https://matplotlib.org/

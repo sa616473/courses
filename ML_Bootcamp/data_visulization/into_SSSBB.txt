@@ -1,0 +1,8 @@
+------------ SeaBorn -------------------
+--> Seaborn is a statistical plotting library
+--> it has a beautiful default styles
+--> it also designed to work very well with pandas dataframe objects
+--> it is built on matplotlib
+
+reference link: https://github.com/mwaskom/seaborn
+				https://seaborn.pydata.org/

@@ -1,0 +1,90 @@
+/* 5.	Background
+a.	Set the background color of the page or be an image
+ */
+
+
+.welcome{
+    color: olive;
+    /* b.	Add text shadow to some element on your page */
+    text-shadow: 2px 2px;
+}
+.container{
+    background-color: aqua;
+}
+
+.about{
+    color: white;
+    /* e.	Add color gradient to some element on your page using linear, radial, or repeating */
+    background: linear-gradient(blue, pink)
+}
+
+/* 
+6.	Font
+a.	Set the color of the text
+b.	Set the font of the text
+c.	Set the size of the font
+d.	Set the style of the font for different tag elements in the page
+e.	Set the boldness of the font for different tag elements in the page 
+*/
+
+#AC{
+    color: blue;
+    font-size: 12pt;
+    font: italic;
+    font-style: Arial;
+    font-weight: 100;
+}
+
+#DC{
+    color: maroon;
+    font-size: 12pt;
+    font: initial;
+    font-style: oblique;
+    font-weight: 52;
+
+}
+
+#LM{
+    color: green;
+    font-size: 12pt;
+    font: inherit;
+    font-style: unset;
+    font-weight: 35;
+
+}
+
+/* b.	Set the background color of another tag element of the page (e.g. h1, h2, article */
+
+h2{
+    background-color: blueviolet;
+    
+}
+/*8.	Lists
+    a.	Modify the default marker for the list used
+  */
+
+.list{
+    list-style-type: upper-roman;
+}
+
+a:link{
+    color: brown;
+}
+/* 7.	Links
+    a.	Use different colors to identify links visited and unvisited
+ */
+a:visited{
+    color: red;
+}
+/* a.	Add a box shadow to an image */
+img{
+    box-shadow: 5px 5px ;
+    /* c.	Modify one of your images using the 2d or 3d transform style */
+    transform: translate(2px, 2px);
+
+    /* d.	Round the corners of an image or element using the border-radius style */
+    border-radius: 30px;
+
+    /* f.	Add a border image to one of your images on a page */
+    border-image-source: url(../images/index.jpg) 30% round;
+}

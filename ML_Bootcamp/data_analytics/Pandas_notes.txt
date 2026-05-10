@@ -1,0 +1,28 @@
+-> Pandas is built on top of NumPy
+-> it allows for fast analysis and data cleaning and preparations
+-> it excels in performance and produnctivity
+-> it also has built in visualization features
+-> it can work with data from a wide variety of sources
+
+(python version of excel)
+
+1. Series
+2. Data frames
+3. Missing data
+4. Group by
+5. Merging, Joining, and Concatenating
+6. Operatinos
+7. Data Input and Output
+
+--> Pandas can read data from
+
+1. CSV
+2. EXCEL
+3. HTML
+	Commands:
+		 pip install sqlalchemy
+		 pip install lxml
+		 pip install html5lib
+		 pip install BeautifulSoup4
+4. SQL
+
